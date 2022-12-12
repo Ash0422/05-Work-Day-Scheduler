@@ -55,4 +55,4 @@ GitHub Repo:
 - https://github.com/Ash0422/05-Work-Day-Scheduler
 
  deployed application: 
-- 
+- https://ash0422.github.io/05-Work-Day-Scheduler/
